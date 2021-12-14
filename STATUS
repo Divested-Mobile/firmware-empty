@@ -1,0 +1,58 @@
+device		- eol 		- status	- enabled
+
+amber		- yes		- TODO
+apollo		- yes		- TODO
+avicii		- no		- TODO
+angler		- yes		- full		- yes
+aura		- no		- TODO
+bacon		- yes		- full		- no
+beryllium	- yes		- TODO
+blueline	- yes		- full		- yes, ue
+bonito		- 2022-05	- minimal	- no, ue
+bramble		- 2023-11	- minimal	- no, ue
+bullhead	- yes		- full		- no, requires proprietary recovery extension
+cheeseburger	- yes		- full		- TODO
+cheryl		- yes		- full		- TODO
+clark		- yes		- full		- no, many variants
+coral		- 2022-10	- minimal	- no, ue
+crosshatch	- yes		- full		- yes, ue
+d802		- yes		- TODO
+d852		- yes		- full		- no
+d855		- yes		- TODO
+dragon		- yes		- full		- yes
+dumpling	- yes		- full		- TODO
+enchilada	- yes		- full		- TODO, ue
+ether		- yes		- TODO
+fajita		- yes		- full		- TODO, ue
+flame		- 2022-10	- minimal	- no, ue
+flo		- yes		- full		- yes
+flounder	- yes		- full		- yes
+FP2		- yes		- TODO
+FP3		- no?		- TODO
+fugu		- yes		- full		- yes
+grouper		- yes		- minimal	- yes
+guacamole	- no		- TODO
+guacamoleb	- no		- TODO
+hammerhead	- yes		- full		- yes
+hotdog		- no		- TODO
+hotdogb		- no		- TODO
+maguro		- yes		- minimal	- yes
+mako		- yes		- minimal	- yes
+manta		- yes		- minimal	- yes
+marlin		- yes		- full		- yes, ue
+mata		- yes		- full		- yes, ue
+oneplus2	- yes		- full		- no
+oneplus3	- yes		- full		- no, unified build
+oneplus3t	- yes		- full		- no, unified build
+pro1		- ?		- TODO
+redfin		- 2023-11	- minimal	- no, ue
+sailfish	- yes		- full		- yes, ue
+sargo		- 2022-05	- minimal	- no, ue
+shamu		- yes		- full		- yes
+sunfish		- 2023-08	- minimal	- no, ue
+taimen		- yes		- full		- yes, ue
+thor		- yes		- minimal	- no
+toro		- yes		- minimal	- yes
+toroplus	- yes		- minimal	- yes
+walleye		- yes		- full		- yes, ue
+yellowstone	- yes		- TODO

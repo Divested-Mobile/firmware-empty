@@ -8,7 +8,6 @@ AB_OTA_PARTITIONS += \
     cmnlib \
     cmnlib64 \
     devcfg \
-    dtbo \
     hyp \
     keymaster \
     laf \

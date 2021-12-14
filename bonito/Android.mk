@@ -1,6 +1,6 @@
-LOCAL_PATH := $(call my-dir)
+DISABLEDLOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),bonito)
+ifeq ($(TARGET_DEVICE),DISABLEDbonitoDISABLED)
 
 include vendor/firmware/bonito/AndroidBoardVendor.mk
 
