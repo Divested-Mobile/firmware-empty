@@ -1,16 +1,16 @@
-device		- eol 		- status	- enabled
+device		- eol		- status	- enabled
 
 amber		- yes		- TODO
 apollo		- yes		- TODO
 avicii		- no		- TODO
-angler		- yes		- full		- yes
+angler		- yes		- full+vendor	- yes
 aura		- no		- TODO
 bacon		- yes		- full		- no
 beryllium	- yes		- TODO
 blueline	- yes		- full		- yes, ue
 bonito		- 2022-05	- minimal	- no, ue
 bramble		- 2023-11	- minimal	- no, ue
-bullhead	- yes		- full		- no, requires proprietary recovery extension
+bullhead	- yes		- full+vendor	- no, requires proprietary recovery extension
 cheeseburger	- yes		- full		- TODO
 cheryl		- yes		- full		- TODO
 clark		- yes		- full		- no, many variants
@@ -19,14 +19,14 @@ crosshatch	- yes		- full		- yes, ue
 d802		- yes		- TODO
 d852		- yes		- full		- no
 d855		- yes		- TODO
-dragon		- yes		- full		- yes
+dragon		- yes		- full+vendor	- yes
 dumpling	- yes		- full		- TODO
-enchilada	- yes		- full		- TODO, ue
+enchilada	- yes		- full+vendor	- yes, ue
 ether		- yes		- TODO
-fajita		- yes		- full		- TODO, ue
+fajita		- yes		- full+vendor	- yes, ue
 flame		- 2022-10	- minimal	- no, ue
 flo		- yes		- full		- yes
-flounder	- yes		- full		- yes
+flounder	- yes		- full+vendor	- yes
 FP2		- yes		- TODO
 FP3		- no?		- TODO
 fugu		- yes		- full		- yes
