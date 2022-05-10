@@ -8,7 +8,7 @@ aura		- no		- TODO
 bacon		- yes		- full		- no
 beryllium	- yes		- TODO
 blueline	- yes		- full		- yes, ue
-bonito		- 2022-05	- minimal	- no, ue
+bonito		- yes		- full		- yes, ue
 bramble		- 2023-11	- minimal	- no, ue
 bullhead	- yes		- full+vendor	- no, requires proprietary recovery extension
 cheeseburger	- yes		- full		- TODO
@@ -47,7 +47,7 @@ oneplus3t	- yes		- full		- no, unified build
 pro1		- ?		- TODO
 redfin		- 2023-11	- minimal	- no, ue
 sailfish	- yes		- full		- yes, ue
-sargo		- 2022-05	- minimal	- no, ue
+sargo		- yes		- full		- yes, ue
 shamu		- yes		- full		- yes
 sunfish		- 2023-08	- minimal	- no, ue
 taimen		- yes		- full		- yes, ue
