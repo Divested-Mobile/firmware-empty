@@ -1,58 +1,76 @@
-device		- eol		- status	- enabled
+Key
+---
+device		- eol		- status	- version	- comment
 
+Enabled, with update_engine, not EOL
+------------------------------------
+barbet		- 2022-08	- full		- S
+bramble		- 2023-11	- full		- S
+coral		- 2022-10	- full		- S
+flame		- 2022-10	- full		- S
+FP3		- no		- full		- R
+FP4		- no		- full		- R
+redfin		- 2023-11	- full		- S
+sunfish		- 2023-08	- full		- S
+
+Enabled, with update_engine, EOL
+--------------------------------
+aura		- yes		- full		- P
+blueline	- yes		- full		- S
+bonito		- yes		- full		- S
+cheryl		- yes		- full		- P
+crosshatch	- yes		- full		- S
+enchilada	- yes		- full		- R
+fajita		- yes		- full		- R
+marlin		- yes		- full		- Q
+mata		- yes		- full		- Q
+pro1		- yes?		- full		- ?
+sailfish	- yes		- full		- Q
+sargo		- yes		- full		- S
+taimen		- yes		- full		- R
+walleye		- yes		- full		- R
+
+Enabled, EOL
+------------
+angler		- yes		- full+vendor	- O
+cheeseburger	- yes		- full		- Q
+dragon		- yes		- full+vendor	- O
+dumpling	- yes		- full		- Q
+flounder	- yes		- full+vendor	- N
+flo		- yes		- full		- M
+fugu		- yes		- full		- O
+grouper		- yes		- minimal	- L
+hammerhead	- yes		- full		- M
+maguro		- yes		- minimal	- J
+mako		- yes		- minimal	- L
+manta		- yes		- minimal	- L
+shamu		- yes		- full		- N
+toroplus	- yes		- minimal	- J
+toro		- yes		- minimal	- J
+
+Disabled
+--------
+bacon		- yes		- full		- L
+bullhead	- yes		- full+vendor	- O	- requires proprietary recovery extension
+clark		- yes		- full		- N	- many variants
+d852		- yes		- full		- ?
+oneplus2	- yes		- full		- M
+oneplus3t	- yes		- full		- P	- unified
+oneplus3	- yes		- full		- P	- unified
+thor		- yes		- minimal	- ?
+
+TODO
+----
 amber		- yes		- TODO
 apollo		- yes		- TODO
 avicii		- no		- TODO
-angler		- yes		- full+vendor	- yes
-aura		- no		- TODO
-bacon		- yes		- full		- no
 beryllium	- yes		- TODO
-blueline	- yes		- full		- yes, ue
-bonito		- yes		- full		- yes, ue
-bramble		- 2023-11	- minimal	- no, ue
-bullhead	- yes		- full+vendor	- no, requires proprietary recovery extension
-cheeseburger	- yes		- full		- TODO
-cheryl		- yes		- full		- TODO
-clark		- yes		- full		- no, many variants
-coral		- 2022-10	- minimal	- no, ue
-crosshatch	- yes		- full		- yes, ue
 d802		- yes		- TODO
-d852		- yes		- full		- no
 d855		- yes		- TODO
-dragon		- yes		- full+vendor	- yes
-dumpling	- yes		- full		- TODO
-enchilada	- yes		- full+vendor	- yes, ue
 ether		- yes		- TODO
-fajita		- yes		- full+vendor	- yes, ue
-flame		- 2022-10	- minimal	- no, ue
-flo		- yes		- full		- yes
-flounder	- yes		- full+vendor	- yes
 FP2		- yes		- TODO
-FP3		- no?		- TODO
-fugu		- yes		- full		- yes
-grouper		- yes		- minimal	- yes
-guacamole	- late 2022?	- TODO
 guacamoleb	- late 2022?	- TODO
-hammerhead	- yes		- full		- yes
-hotdog		- late 2022?	- TODO
+guacamole	- late 2022?	- TODO
 hotdogb		- late 2022?	- TODO
-maguro		- yes		- minimal	- yes
-mako		- yes		- minimal	- yes
-manta		- yes		- minimal	- yes
-marlin		- yes		- full		- yes, ue
-mata		- yes		- full		- yes, ue
-oneplus2	- yes		- full		- no
-oneplus3	- yes		- full		- no, unified build
-oneplus3t	- yes		- full		- no, unified build
-pro1		- ?		- TODO
-redfin		- 2023-11	- minimal	- no, ue
-sailfish	- yes		- full		- yes, ue
-sargo		- yes		- full		- yes, ue
-shamu		- yes		- full		- yes
-sunfish		- 2023-08	- minimal	- no, ue
-taimen		- yes		- full		- yes, ue
-thor		- yes		- minimal	- no
-toro		- yes		- minimal	- yes
-toroplus	- yes		- minimal	- yes
-walleye		- yes		- full		- yes, ue
+hotdog		- late 2022?	- TODO
 yellowstone	- yes		- TODO
