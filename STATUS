@@ -4,14 +4,14 @@ device		- eol		- status	- version	- comment
 
 Enabled, with update_engine, not EOL
 ------------------------------------
-barbet		- 2022-08	- full		- S
+barbet		- 2024-08	- full		- S
+redfin		- 2023-10	- full		- S
 bramble		- 2023-11	- full		- S
+sunfish		- 2023-08	- full		- S
 coral		- 2022-10	- full		- S
 flame		- 2022-10	- full		- S
-FP3		- no		- full		- R
-FP4		- no		- full		- R
-redfin		- 2023-11	- full		- S
-sunfish		- 2023-08	- full		- S
+FP4		- 2026		- full		- R
+FP3		- 2024		- full		- R
 
 Enabled, with update_engine, EOL
 --------------------------------
