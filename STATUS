@@ -4,12 +4,12 @@ device		- eol		- status	- version	- comment
 
 Enabled, with update_engine, not EOL
 ------------------------------------
-barbet		- 2024-08	- full		- S
-redfin		- 2023-10	- full		- S
-bramble		- 2023-11	- full		- S
-sunfish		- 2023-08	- full		- S
-coral		- 2022-10	- full		- S
-flame		- 2022-10	- full		- S
+barbet		- 2024-08	- full		- T
+redfin		- 2023-10	- full		- T
+bramble		- 2023-11	- full		- T
+sunfish		- 2023-08	- full		- T
+coral		- 2022-10	- full		- T
+flame		- 2022-10	- full		- T
 FP4		- 2026		- full		- R
 FP3		- 2024		- full		- R
 
@@ -54,6 +54,12 @@ bacon		- yes		- full		- L
 bullhead	- yes		- full+vendor	- O	- requires proprietary recovery extension
 clark		- yes		- full		- N	- many variants
 d852		- yes		- full		- ?
+guacamoleb	- yes		- full		- R	- pending S
+guacamole	- yes		- full		- R	- pending S
+hotdogb		- yes		- full		- R	- pending S
+hotdog		- yes		- full		- R	- pending S
+lemonadep	- yes		- full		- R	- pending S
+lemonade	- yes		- full		- R	- pending S
 oneplus2	- yes		- full		- M
 oneplus3t	- yes		- full		- P	- unified
 oneplus3	- yes		- full		- P	- unified
