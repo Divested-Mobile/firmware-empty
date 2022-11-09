@@ -8,10 +8,16 @@ barbet		- 2024-08	- full		- T
 redfin		- 2023-10	- full		- T
 bramble		- 2023-11	- full		- T
 sunfish		- 2023-08	- full		- T
-coral		- 2022-10	- full		- T
-flame		- 2022-10	- full		- T
 FP4		- 2026		- full		- R
 FP3		- 2024		- full		- R
+guacamoleb	- late 2022?	- full		- S
+guacamole	- late 2022?	- full		- S
+hotdogb		- late 2022?	- full		- S
+hotdog		- late 2022?	- full		- S
+instantnoodle	- no		- full		- S
+lnstantnoodlep	- no		- full		- S
+lemonadep	- no		- full		- S
+lemonade	- no		- full		- S
 
 Enabled, with update_engine, EOL
 --------------------------------
@@ -19,9 +25,11 @@ aura		- yes		- full		- P
 blueline	- yes		- full		- S
 bonito		- yes		- full		- S
 cheryl		- yes		- full		- P
+coral		- yes		- full		- T
 crosshatch	- yes		- full		- S
 enchilada	- yes		- full		- R
 fajita		- yes		- full		- R
+flame		- yes		- full		- T
 marlin		- yes		- full		- Q
 mata		- yes		- full		- Q
 pro1		- yes?		- full		- ?
@@ -30,7 +38,7 @@ sargo		- yes		- full		- S
 taimen		- yes		- full		- R
 walleye		- yes		- full		- R
 
-Enabled, EOL
+Enabled, with releasetools, EOL
 ------------
 angler		- yes		- full+vendor	- O
 cheeseburger	- yes		- full		- Q
@@ -54,12 +62,6 @@ bacon		- yes		- full		- L
 bullhead	- yes		- full+vendor	- O	- requires proprietary recovery extension
 clark		- yes		- full		- N	- many variants
 d852		- yes		- full		- ?
-guacamoleb	- yes		- full		- R	- pending S
-guacamole	- yes		- full		- R	- pending S
-hotdogb		- yes		- full		- R	- pending S
-hotdog		- yes		- full		- R	- pending S
-lemonadep	- yes		- full		- R	- pending S
-lemonade	- yes		- full		- R	- pending S
 oneplus2	- yes		- full		- M
 oneplus3t	- yes		- full		- P	- unified
 oneplus3	- yes		- full		- P	- unified
@@ -75,8 +77,5 @@ d802		- yes		- TODO
 d855		- yes		- TODO
 ether		- yes		- TODO
 FP2		- yes		- TODO
-guacamoleb	- late 2022?	- TODO
-guacamole	- late 2022?	- TODO
-hotdogb		- late 2022?	- TODO
-hotdog		- late 2022?	- TODO
+kebab		- no		- TODO		-	- needs special xbl handling for DDR4/5 variants
 yellowstone	- yes		- TODO
