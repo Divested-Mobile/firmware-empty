@@ -10,10 +10,6 @@ bramble		- 2023-11	- full		- T
 sunfish		- 2023-08	- full		- T
 FP4		- 2026		- full		- R
 FP3		- 2024		- full		- R
-guacamoleb	- late 2022?	- full		- S
-guacamole	- late 2022?	- full		- S
-hotdogb		- late 2022?	- full		- S
-hotdog		- late 2022?	- full		- S
 instantnoodle	- no		- full		- S
 lnstantnoodlep	- no		- full		- S
 lemonadep	- no		- full		- S
@@ -30,6 +26,10 @@ crosshatch	- yes		- full		- S
 enchilada	- yes		- full		- R
 fajita		- yes		- full		- R
 flame		- yes		- full		- T
+guacamoleb	- yes		- full		- S
+guacamole	- yes		- full		- S
+hotdogb		- yes		- full		- S
+hotdog		- yes		- full		- S
 marlin		- yes		- full		- Q
 mata		- yes		- full		- Q
 pro1		- yes?		- full		- ?
