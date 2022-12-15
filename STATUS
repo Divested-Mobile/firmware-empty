@@ -4,16 +4,21 @@ device		- eol		- status	- version	- comment
 
 Enabled, with update_engine, not EOL
 ------------------------------------
+cheetah		- 2027-10	- full		- T
+panther		- 2027-10	- full		- T
+bluejay		- 2027-07	- full		- T
+oriole		- 2026-10	- full		- T
+raven		- 2026-10	- full		- T
 barbet		- 2024-08	- full		- T
 redfin		- 2023-10	- full		- T
 bramble		- 2023-11	- full		- T
 sunfish		- 2023-08	- full		- T
 FP4		- 2026		- full		- R
 FP3		- 2024		- full		- R
-instantnoodle	- no		- full		- S
-lnstantnoodlep	- no		- full		- S
-lemonadep	- no		- full		- S
-lemonade	- no		- full		- S
+lemonadep	- 2024-03	- full		- S
+lemonade	- 2024-03	- full		- S
+instantnoodle	- 2023-04	- full		- S
+lnstantnoodlep	- 2023-04	- full		- S
 
 Enabled, with update_engine, EOL
 --------------------------------
@@ -39,7 +44,7 @@ taimen		- yes		- full		- R
 walleye		- yes		- full		- R
 
 Enabled, with releasetools, EOL
-------------
+-------------------------------
 angler		- yes		- full+vendor	- O
 cheeseburger	- yes		- full		- Q
 dragon		- yes		- full+vendor	- O
@@ -71,11 +76,11 @@ TODO
 ----
 amber		- yes		- TODO
 apollo		- yes		- TODO
-avicii		- no		- TODO
+avicii		- 2023-07	- TODO
 beryllium	- yes		- TODO
 d802		- yes		- TODO
 d855		- yes		- TODO
 ether		- yes		- TODO
 FP2		- yes		- TODO
-kebab		- no		- TODO		-	- needs special xbl handling for DDR4/5 variants
+kebab		- 2023-04	- TODO		-	- needs special xbl handling for DDR4/5 variants
 yellowstone	- yes		- TODO
