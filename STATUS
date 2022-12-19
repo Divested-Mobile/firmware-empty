@@ -43,17 +43,20 @@ sargo		- yes		- full		- S
 taimen		- yes		- full		- R
 walleye		- yes		- full		- R
 
-Enabled, with releasetools, EOL
--------------------------------
+Enabled, with working releasetools, EOL
+--------------------------------------
 angler		- yes		- full+vendor	- O
+flo		- yes		- full		- M
+fugu		- yes		- full		- O
+hammerhead	- yes		- full		- M
+
+Enabled, with broken releasetools, EOL
+--------------------------------------
 cheeseburger	- yes		- full		- Q
 dragon		- yes		- full+vendor	- O
 dumpling	- yes		- full		- Q
 flounder	- yes		- full+vendor	- N
-flo		- yes		- full		- M
-fugu		- yes		- full		- O
 grouper		- yes		- minimal	- L
-hammerhead	- yes		- full		- M
 maguro		- yes		- minimal	- J
 mako		- yes		- minimal	- L
 manta		- yes		- minimal	- L
