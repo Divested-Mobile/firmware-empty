@@ -44,7 +44,7 @@ taimen		- yes		- full		- R
 walleye		- yes		- full		- R
 
 Enabled, with working releasetools, EOL
---------------------------------------
+---------------------------------------
 angler		- yes		- full+vendor	- O
 flo		- yes		- full		- M
 fugu		- yes		- full		- O
