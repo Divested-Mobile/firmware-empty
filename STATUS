@@ -31,10 +31,10 @@ crosshatch	- yes		- full		- S
 enchilada	- yes		- full		- R
 fajita		- yes		- full		- R
 flame		- yes		- full		- T
-guacamoleb	- yes		- full		- S	- BEHIND
-guacamole	- yes		- full		- S	- BEHIND
-hotdogb		- yes		- full		- S	- BEHIND
-hotdog		- yes		- full		- S	- BEHIND
+guacamoleb	- yes		- full		- S
+guacamole	- yes		- full		- S
+hotdogb		- yes		- full		- S
+hotdog		- yes		- full		- S
 marlin		- yes		- full		- Q
 mata		- yes		- full		- Q
 pro1		- yes?		- full		- ?
