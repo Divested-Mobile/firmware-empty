@@ -1,0 +1,11 @@
+mv NON-HLOS.bin modem.img
+mv sbl1.mbn sbl1.img
+mv rpm.mbn rpm.img
+mv tz.mbn tz.img
+mv devcfg.mbn devcfg.img
+mv adspso.bin dsp.img
+mv lksecapp.mbn lksecapp.img
+mv cmnlib_30.mbn cmnlib.img
+mv cmnlib64_30.mbn cmnlib64.img
+mv km4.mbn keymaster.img
+mv emmc_appsboot.mbn aboot.img
