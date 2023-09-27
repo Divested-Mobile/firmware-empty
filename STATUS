@@ -12,7 +12,6 @@ raven		- 2026-10	- full		- T
 barbet		- 2024-08	- full		- T
 redfin		- 2023-10	- full		- T
 bramble		- 2023-11	- full		- T
-sunfish		- 2023-08	- full		- T
 FP4		- 2026		- full		- S
 FP3		- 2024		- full		- R
 lemonadep	- 2024-03	- full		- T
@@ -42,6 +41,7 @@ pro1		- yes		- full		- ?
 pro1x		- yes		- full		- ?
 sailfish	- yes		- full		- Q
 sargo		- yes		- full		- S
+sunfish		- yes		- full		- T
 taimen		- yes		- full		- R
 walleye		- yes		- full		- R
 
